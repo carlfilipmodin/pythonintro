@@ -1,0 +1,5 @@
+print ("välkommen till mitt program där du kan addera")
+tal1=input("mata in ett heltal")
+tal2=input ("mata in ett till heltal: ")
+summa= int(tal1)+int(tal2)
+print ("summan är:" + str(summa))

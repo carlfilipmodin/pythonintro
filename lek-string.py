@@ -21,3 +21,6 @@ print (lastName[0:3].lower() + "" + lastName[0:3].lower() + "19")
 userName = firstName[0:3].lower()
 userName += "19"
 print(userName)
+
+print firstName
+
